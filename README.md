@@ -10,6 +10,9 @@ DVB-T North Macedonia, Bitola Region
 -Updated Tring TV 16e
 -Updated Total TV 16e
 
+09.09.2020 version
+-Fixed Tring TV 16e
+
 04.09.2020 version
 -Updated Tring TV 16e
 -Updated Total TV 16e
