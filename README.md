@@ -5,6 +5,9 @@ DVB-T North Macedonia, Bitola Region
 16E Bouquet
 19.2E Bouquet
 
+28.09.2020 version
+-Updated Tring TV 16e
+
 20.09.2020 version
 -Updated Tring TV 16e
 -Updated RTSH 16e
