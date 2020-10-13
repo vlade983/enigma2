@@ -5,6 +5,11 @@ DVB-T North Macedonia, Bitola Region
 16E Bouquet
 19.2E Bouquet
 
+13.10.2020 version
+-Updated Max TV 16e
+-Updated Total TV 16e
+-Updated MTV Network Europe 19.2e
+
 05.10.2020 version
 -Updated DVB-T added Greek & Albanian Cnannels
 -Updated Tring TV 16e
