@@ -5,6 +5,9 @@ DVB-T North Macedonia, Bitola Region
 16E Bouquet
 19.2E Bouquet
 
+19.10.2020 version
+-Removed Antena Group 16e
+
 13.10.2020 version
 -Updated Max TV 16e
 -Updated Total TV 16e
