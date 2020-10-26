@@ -5,6 +5,10 @@ DVB-T North Macedonia, Bitola Region
 16E Bouquet
 19.2E Bouquet
 
+26.10.2020 version
+-Updated Tring TV 16e
+-Updated A1 Broadcasting 16e
+
 19.10.2020 version
 -Removed Antena Group 16e
 
