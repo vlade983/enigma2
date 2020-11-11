@@ -503,9 +503,6 @@ p:Total TV,C:0000
 06ed:00a00000:c544:016e:1:0
 24Kitchen HD
 p:Total TV,C:0000
-0038:00a00000:0168:016e:1:0
-3 Plus
-p:Tring TV
 0a9c:00a00000:9dd0:016e:25:0
 360 TuneBox HD
 p:Digitalb,C:0000
@@ -674,9 +671,6 @@ p:T-HT,C:0000
 0741:00a00000:c5a8:016e:25:0
 BBC First HD
 p:A1 HR,C:0000
-003c:00a00000:0168:016e:1:0
-BBF
-p:Tring TV
 0514:00a00000:4f4c:016e:1:0
 BCTV Europe
 p:DigitALB
@@ -878,9 +872,6 @@ p:T-HT,C:0000
 07d7:00a00000:9e98:016e:25:0
 Dajto HD
 p:Orange TV,C:0000
-022b:00a00000:0168:016e:1:0
-Desire
-p:Tring TV,c:000961,c:010962,c:030961,c:050001,C:0baa
 000b:00a00000:01f4:0005:1:0
 DIGI 24
 p:
@@ -1073,9 +1064,9 @@ p:T-HT,C:0000
 03eb:00a00000:50dc:016e:25:0
 Family HD
 p:DigitALB,C:0000
-038f:00a00000:c670:016e:31:0
-Fashion 4K
-p:A1 Broadcasting,C:0000
+0391:00a00000:c670:016e:25:0
+Animal Planet
+p:A1 Broadcasting,c:0008fd,C:0000
 03b8:00a00000:c670:016e:25:0
 Fashion Television HD
 p:A1 Broadcasting,c:000dad,c:010dae,c:030dad,c:050001
@@ -1103,9 +1094,6 @@ p:
 0866:00a00000:5014:016e:1:0
 Fax News
 p:DigitALB,C:0000
-0080:00a00000:0168:016e:1:0
-FAX NEWS
-p:Tring TV
 0358:00a00000:c3b4:016e:1:0
 Federalna TV
 p:Total TV,C:0000
@@ -1211,9 +1199,6 @@ p:GMDS,C:0000
 04b5:00a00000:76c1:016e:22:0
 Fishing and Hunting
 p:A1 Broadcasting,C:0000
-007d:00a00000:0168:016e:1:0
-Folk Plus
-p:Tring TV
 0270:00a00000:c418:016e:22:0
 Food Network
 p:A1 Broadcasting,C:0000
@@ -1454,9 +1439,6 @@ p:Orange TV,C:0000
 04c9:00a00000:76c1:016e:31:0
 Jojko
 p:A1 Broadcasting,C:0000
-0032:00a00000:0168:016e:1:0
-Jolly HD
-p:Tring TV
 0096:00a00000:0001:0040:22:0
 Jugoton TV.
 p:T-HT,C:0000
@@ -1484,12 +1466,6 @@ p:,C:0000
 0001:00a0b114:0001:0001:1:0
 Kanal D
 p:DoganMedia,C:0000
-12c0:00a00000:0168:016e:1:0
-KanalD Drama
-p:Tring TV
-03e7:00a00000:0168:016e:1:0
-Kanali 7
-p:Tring TV
 03ef:00a00000:5e24:016e:1:0
 KCN
 p:STN
@@ -1508,18 +1484,12 @@ p:A1 HR,C:0000
 038b:00a00000:c670:016e:22:0
 Kiss
 p:A1 Broadcasting,c:0006a5,c:0106a6,c:0306a5,c:050001,C:0000
-0c1c:00a00000:0168:016e:1:0
-Klan HD
-p:Tring TV
 0002:00a0b0ff:0001:0001:1:0
 Klan Kosova
 p:GMDS,c:00012c,c:01012d,c:03012c,c:050001,C:0000
 0002:00a0b0fd:0001:0001:1:0
 Klan Kosova
 p:GMDS,C:0000
-0c80:00a00000:0168:016e:1:0
-Klan Plus
-p:Tring TV,c:000c8a,c:010c94,c:030c8a,c:050001,C:0baa
 00d8:00a00000:0003:0040:22:0
 Klasik TV.
 p:T-HT,C:0000
@@ -1547,9 +1517,6 @@ p:A1 Broadcasting,C:0000
 0072:00a00000:9f60:016e:22:0
 Leo TV/Extasy
 p:Orange TV
-0050:00a00000:0168:016e:1:0
-Living HD
-p:Tring TV,c:001068,c:011072,c:031068,c:050001,C:0baa
 0068:00a00000:cb2b:016e:1:0
 LOL
 p:Pink,C:0000
@@ -2033,9 +2000,6 @@ p:Scopus Network Technologies
 0407:00a00000:51a4:016e:1:0
 Report TV
 p:DigitALB,C:0000
-0924:00a00000:0168:016e:1:0
-Report TV
-p:Tring TV
 0010:00a00000:0064:0064:1:0
 RFI Romania
 p:
@@ -2126,9 +2090,6 @@ p:Total TV,c:0000fe,c:010dd5,c:02022a,c:0300fe,c:050001,C:0000
 036b:00a00000:c3b4:016e:1:0
 RTV 2
 p:Total TV,C:0000
-0007:00a00000:0168:016e:1:0
-RTV 21
-p:Tring TV,C:0000
 05a0:00a00000:4f4c:016e:25:0
 RTV Ora
 p:DigitALB,C:0000
@@ -2225,9 +2186,6 @@ p:RTV SLOVENIJA,c:0001a5,c:0101a6,c:02019f,c:0301a5,c:050001,C:0000
 0d69:00a00000:c738:016e:25:0
 SLO3 HD
 p:RTV SLOVENIJA,c:0001af,c:0101b0,c:02019f,c:0301af,c:050001,C:0000
-0021:00a00000:0168:016e:1:0
-Smile
-p:Tring TV
 0001:00a03174:0001:0001:1:0
 SNAI LIVE
 p:SNAI LIVE
@@ -2252,21 +2210,9 @@ p:A1 Broadcasting
 0078:00a00000:9f60:016e:25:0
 Sport 1 HD
 p:Orange TV
-001b:00a00000:0168:016e:1:0
-SPORT 1 HD
-p:Tring TV,c:0009dd,c:0109df,c:0309dd,c:050001,C:0baa
 04cc:00a00000:76c1:016e:31:0
 Sport 2 HD
 p:A1 Broadcasting,C:0000
-001c:00a00000:0168:016e:1:0
-SPORT 2 HD
-p:Tring TV,c:000af1,c:010af3,c:030af1,c:050001,C:0baa
-001d:00a00000:0168:016e:1:0
-SPORT 3 HD
-p:Tring TV
-001a:00a00000:0168:016e:1:0
-SPORT 4 HD
-p:Tring TV
 0306:00a00000:9d08:016e:1:0
 Sport TV 1
 p:Total TV,C:0000
@@ -2327,9 +2273,6 @@ p:DigitALB,c:000489,c:01048a,c:030489,c:050001,C:0000
 03eb:00a00000:51a4:016e:1:0
 STV Folk
 p:DigitALB,C:0000
-0005:00a00000:0168:016e:1:0
-Tring Comedy
-p:Tring TV,c:0005dc,c:0105e6,c:0305dc,c:050001,C:0000
 006c:00a00000:0001:016e:22:0
 Supersat TV - TEST
 p:TEAM:SAT,c:0006e1,c:0106e3,c:0306e1,c:050001
@@ -2381,9 +2324,6 @@ p:A1 Broadcasting,C:0000
 0a8f:00a00000:9dd0:016e:25:0
 Timeless Drama Channel HD
 p:A1 HR,c:0004b1,c:0104b2,c:0304b1,c:050001,c:094de0404,C:0000
-0008:00a00000:0168:016e:1:0
-TIP TV
-p:Tring TV,c:0008fc,c:0108fd,c:0308fc,c:050001,C:0baa
 0272:00a00000:c418:016e:22:0
 TLC
 p:A1 Broadcasting,C:0000
@@ -2420,33 +2360,6 @@ p:DigitALB,c:000849,c:01084a,c:030849,c:050001,C:0000
 0772:00a00000:c6d4:016e:25:0
 Travelxp HD
 p:A1 Broadcasting,c:000641,c:010642,c:030641,c:050001,c:096550000,C:0000
-0015:00a00000:0168:016e:1:0
-Tring Action HD
-p:Tring TV,c:000514,c:01051e,c:030514,c:050001,C:0baa
-08d4:00a00000:0168:016e:1:0
-Tring Fantasy
-p:Tring TV,c:0003fb,c:0103fc,c:0303fb,c:050001,C:0baa
-0014:00a00000:0168:016e:1:0
-Tring Life
-p:Tring TV,c:000578,c:010582,c:030578,c:050001,C:0baa
-000c:00a00000:0168:016e:1:0
-Tring Planet
-p:Tring TV
-0058:00a00000:0168:016e:1:0
-Tring Shqip
-p:Tring TV,c:0004e9,c:0104ea,c:0304e9,c:050001,C:0baa
-0003:00a00000:0168:016e:1:0
-Tring Sport News
-p:Tring TV,C:0000
-0002:00a00000:0168:016e:1:0
-Tring Super HD
-p:Tring TV,c:001080,c:011081,c:031080,c:050001,C:0000
-0009:00a00000:0168:016e:1:0
-Tring Tring
-p:Tring TV,C:0000
-0042:00a00000:0168:016e:1:0
-Tring World
-p:Tring TV
 11ab:00a0313e:4289:ff00:22:0
 Trojka
 p:Orange TV,c:000ce5,c:010ce6,c:030ce5,c:050001,C:0b00,C:0690,C:0609
@@ -2573,7 +2486,7 @@ p:A1 Broadcasting,c:000fa1,c:010fa3,c:030fa1,c:050001,C:0000
 0726:00a00000:c5a8:016e:22:0
 Viasat History
 p:A1 HR,C:0000
-045c:00a00000:526c:016e:25:0
+0452:00a00000:526c:016e:25:0
 Viasat History HD
 p:A1 Broadcasting,C:0000
 045a:00a00000:526c:016e:25:0
@@ -5711,9 +5624,6 @@ p:Tring TV
 0b54:00a00000:0170:016e:1:0
 SPORT 2 HD
 p:Tring TV
-0b86:00a00000:0170:016e:1:0
-SPORT 3 HD
-p:Tring TV
 0bb8:00a00000:0170:016e:1:0
 SPORT 4 HD
 p:Tring TV
@@ -6467,5 +6377,23 @@ p:Total TV,C:0000
 0a8e:00a00000:9dd0:016e:25:0
 Dizi HD
 p:A1 Broadcasting,C:0000
+0b86:00a00000:0170:016e:1:0
+SPORT 3 HD
+p:Tring TV,c:000ade,c:010adf,c:030ade,c:050001,C:0baa
+0393:00a00000:c670:016e:25:0
+Discovery Science HD
+p:A1 Broadcasting,C:0000,f:40
+0394:00a00000:c670:016e:25:0
+Discovery Showcase HD
+p:A1 Broadcasting,C:0000,f:40
+0392:00a00000:c670:016e:25:0
+DTX
+p:A1 Broadcasting,C:0000,f:40
+0085:00a00000:0001:016e:22:0
+TV 101
+p:TEAM:SAT,c:000871,c:010873,c:030871,c:050001
+038f:00a00000:c670:016e:25:0
+Travel Channel HD
+p:A1 Broadcasting,c:000835,c:010836,c:030835,c:050001,C:0b00
 end
-Edited with dreamboxEDIT 7.2.1.0 on 19Oct2020 08:45:05
+Edited with dreamboxEDIT 7.2.1.0 on 11Nov2020 08:23:50
