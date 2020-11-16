@@ -5,6 +5,10 @@ DVB-T North Macedonia, Bitola Region
 16E Bouquet
 19.2E Bouquet
 
+16.11.2020 version
+-Updated Total TV 16e
+-Updated A1 Broadcasting 16e
+
 11.11.2020 version
 -Updated TeamSat 16e
 -Updated A1 Broadcasting 16e
