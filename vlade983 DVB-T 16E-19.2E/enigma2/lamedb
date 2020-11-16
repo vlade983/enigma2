@@ -6395,5 +6395,14 @@ p:TEAM:SAT,c:000871,c:010873,c:030871,c:050001
 038f:00a00000:c670:016e:25:0
 Travel Channel HD
 p:A1 Broadcasting,c:000835,c:010836,c:030835,c:050001,C:0b00
+0454:00a00000:526c:016e:25:0
+Viasat Explore HD
+p:A1 Broadcasting,C:0000,f:40
+0455:00a00000:526c:016e:1:0
+Viasat Explore SD
+p:A1 Broadcasting,C:0000,f:40
+0453:00a00000:526c:016e:1:0
+Viasat History SD
+p:A1 Boadcasting,C:0000,f:40
 end
-Edited with dreamboxEDIT 7.2.1.0 on 11Nov2020 08:23:50
+Edited with dreamboxEDIT 7.2.1.0 on 16Nov2020 11:55:29
