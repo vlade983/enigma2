@@ -1,0 +1,10 @@
+[reader]
+label                         = server
+protocol                      = newcamd
+device                        = newcamd,2150
+key                           = 0102030405060708091011121314
+user                          = newcamd
+password                      = newcamd
+connectoninit                 = 1
+group                         = 10
+audisabled                    = 1
